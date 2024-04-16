@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://jinan:root@cluster0.6qb3x36.mongodb.net/
+      database: Social
+      uuid-representation: standard
